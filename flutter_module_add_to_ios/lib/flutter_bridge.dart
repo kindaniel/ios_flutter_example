@@ -18,6 +18,6 @@ class FlutterBridge {
   }
 
   String someMethod() {
-    return "Felipe Bastos";
+    return "return some info what you want!";
   }
 }
